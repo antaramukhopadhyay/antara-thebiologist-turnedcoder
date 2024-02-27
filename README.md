@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antara-thebiologist-turnedcoder
+- 👋 Hi, I’m Antara Mukhopadhyay
 - 👀 I’m interested in learning and using deep learning for analysing microscopy images 
 - 🌱 I’m currently learning how to use neural networks to increase temporal resolution 
 - 😄 Pronouns: ...she/her
