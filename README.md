@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Antara Mukhopadhyay
-- 👀 I’m interested in learning and using deep learning for analysing microscopy images 
-- 🌱 I’m currently learning how to use neural networks to increase temporal resolution 
+- ⚡ I am a passionate biologist who wants to use advanced interdisciplinary techniques to understand mysteries of molecular biology
+- 👀 I’m interested in learning, and using deep learning for analysing microscopy images 
+- 🌱 I’m currently learning how to use neural networks for image processing
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...I am a passionate biologist who wants to use advanced interdisciplinary techniques to understand mysteries of molecular biology
+- 
 
 <!---
 antara-thebiologist-turnedcoder/antara-thebiologist-turnedcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
